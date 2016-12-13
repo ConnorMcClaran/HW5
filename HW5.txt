@@ -1,0 +1,45 @@
+Connor McClaran, Homework 5 questions that don't require code
+3.3.19) 2 bits
+
+3.4.1)
+hash   key
+0       A - U
+1       Q
+2       null
+3       S - I - N
+4       E - Y - T - O
+5       null
+
+3.4.10) for M = 16
+hash    key
+0        A
+1        Q
+2        T
+3        null
+4        null
+5        null
+6        S
+7        I
+8        Y
+9        null
+10       0
+11       null
+12       E
+13       U
+14       null
+15       N
+16       null
+
+for M = 10
+hash      key
+0         A
+1         U
+2         null
+3         N
+4         E
+5         Y
+6         Q
+7         O
+8         S
+9         T
+10        I
